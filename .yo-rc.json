@@ -1,0 +1,8 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "La plataforma Konekti",
+    "packageVersion": "0.0.1",
+    "useSass": false,
+    "deployToGithubPages": false
+  }
+}

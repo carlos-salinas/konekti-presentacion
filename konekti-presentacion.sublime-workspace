@@ -1,0 +1,492 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"attr",
+				"attrs"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"a",
+				"authenticatedUser"
+			],
+			[
+				"backgro",
+				"background-color"
+			],
+			[
+				"org",
+				"organizations"
+			],
+			[
+				"or",
+				"organizationId"
+			],
+			[
+				"receptio",
+				"reception"
+			],
+			[
+				"product",
+				"productNumber"
+			],
+			[
+				"reception",
+				"receptionId"
+			],
+			[
+				"recepi",
+				"reception"
+			],
+			[
+				"rece",
+				"receptionId"
+			],
+			[
+				"fot",
+				"font-size"
+			],
+			[
+				"container",
+				"containerId"
+			],
+			[
+				"conta",
+				"containerId"
+			],
+			[
+				"PRODUC",
+				"productNumber"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"sc",
+				"sce"
+			],
+			[
+				"addH",
+				"addHeaderRightButton"
+			],
+			[
+				"prog",
+				"progressbar_id"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"magin",
+				"margin-right"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"",
+				"Convert Case: Swap Case"
+			],
+			[
+				"plu",
+				"Snippet: Lorem ipsum"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/thk01/git/workshoptrack.mobile/app/js/controllers/reception.js",
+		"/home/thk01/git/workshoptrack.mobile/app/js/directives/template.js",
+		"/home/thk01/git/workshoptrack.mobile/app/partials/container-add-stock.html",
+		"/home/thk01/git/workshoptrack.mobile/app/js/controllers/inventory.js",
+		"/home/thk01/git/workshoptrack.mobile/app/partials/container-new.html",
+		"/home/thk01/git/workshoptrack.mobile/app/js/services/reception.js",
+		"/home/thk01/git/workshoptrack.mobile/app/partials/reception-detail.html",
+		"/home/thk01/git/workshoptrack.mobile/app/partials/container-detail.html",
+		"/home/thk01/git/konekti-speech/slides/index.md",
+		"/home/thk01/git/konekti-speech/templates/_index.html",
+		"/home/thk01/git/konekti-presentacion/slides/por-que-konekti.html",
+		"/home/thk01/git/konekti-presentacion/slides/list.json",
+		"/home/thk01/git/konekti-presentacion/slides/que-es-konekti.html",
+		"/home/thk01/git/konekti-presentacion/slides/index.md",
+		"/home/thk01/git/workshoptrack.mobile/app/partials/common/warning-no-bounded-container.html",
+		"/home/thk01/git/workshoptrack.mobile/app/partials/inventory.html",
+		"/home/thk01/git/workshoptrack.mobile/app/js/services/container.js",
+		"/home/thk01/Desarrollo/servidores/virgo-tomcat-server-3.6.2.KONEKTI.WORKSHOPTRACK.DEV/configuration/org.eclipse.virgo.kernel.userregion.properties",
+		"/home/thk01/git/workshoptrack.mobile/app/js/controllers/container.js",
+		"/home/thk01/Desarrollo/servidores/virgo-tomcat-server-3.6.2.KONEKTI.WORKSHOPTRACK.DEV/serviceability/logs/log.log",
+		"/home/thk01/git/workshoptrack.mobile/app/partials/reception.html",
+		"/home/thk01/git/workshoptrack.mobile/app/partials/common/warning-delete-container.html",
+		"/home/thk01/git/workshoptrack.mobile/app/data/locale-en.json",
+		"/home/thk01/git/workshoptrack.mobile/app/data/locale-es.json",
+		"/home/thk01/git/workshoptrack.mobile/app/partials/container-remove-stock.html",
+		"/home/thk01/git/workshoptrack.mobile/app/css/app.css",
+		"/home/thk01/git/workshoptrack.mobile/app/index.html",
+		"/home/thk01/git/workshoptrack.mobile/app/js/controllers/printing.js",
+		"/home/thk01/git/workshoptrack.mobile/app/js/directives/jqm.js",
+		"/home/thk01/git/workshoptrack.mobile/app/js/directives/extension.js",
+		"/home/thk01/git/workshoptrack.mobile/app/js/app.js",
+		"/home/thk01/git/workshoptrack.mobile/app/js/jqm_config.js",
+		"/home/thk01/git/menes.mobile/www/js/controllers/reminder.js",
+		"/home/thk01/git/menes.mobile/www/partials/reminder-new.html",
+		"/home/thk01/git/menes.mobile/www/index.html",
+		"/home/thk01/git/workshoptrack.mobile/app/partials/common/warning-add-stock.html",
+		"/home/thk01/git/workshoptrack.mobile/app/partials/common/warning-remove-stock.html",
+		"/home/thk01/git/workshoptrack.mobile/app/js/services/product.js",
+		"/home/thk01/git/konekti/modules/konekti.view.module.organization/pom.xml",
+		"/home/thk01/git/konekti/pom.xml",
+		"/home/thk01/git/workshoptrack.mobile/app/js/controllers/wizard.js",
+		"/home/thk01/git/workshoptrack.mobile/app/partials/wizard.html",
+		"/home/thk01/git/workshoptrack.mobile/app/js/controllers/settings.js",
+		"/home/thk01/git/menes.mobile/www/js/services.js",
+		"/home/thk01/git/workshoptrack.mobile/app/js/controllers.js",
+		"/home/thk01/git/workshoptrack.mobile/bower_components/ngDialog/js/ngDialog.js",
+		"/home/thk01/git/workshoptrack.mobile/app/partials/common/main-menu.html",
+		"/home/thk01/git/workshoptrack.mobile/app/partials/common/warning-reset-settings.html",
+		"/home/thk01/git/workshoptrack.mobile/app/partials/common/warning-no-container.html",
+		"/home/thk01/git/workshoptrack.mobile/app/js/controllers/bin.js",
+		"/home/thk01/git/workshoptrack.mobile/app/partials/bin-detail.html",
+		"/home/thk01/git/workshoptrack.mobile/app/js/services/bin.js",
+		"/home/thk01/git/workshoptrack.mobile/app/partials/common/warning-no-server.html",
+		"/home/thk01/git/workshoptrack.mobile/app/partials/common/warning-no-bin.html",
+		"/home/thk01/git/workshoptrack.mobile/app/partials/common/error-create-container.html",
+		"/home/thk01/git/workshoptrack.mobile/app/js/controllers/equipment.js",
+		"/home/thk01/git/workshoptrack.mobile/app/js/controllers/expedition.js",
+		"/home/thk01/git/workshoptrack.mobile/app/js/controllers/login.js",
+		"/home/thk01/git/workshoptrack.mobile/app/js/services/settings.js",
+		"/home/thk01/git/workshoptrack.mobile/app/js/services/equipment.js",
+		"/home/thk01/git/my-stomp-project/app/index.html",
+		"/home/thk01/git/workshoptrack.mobile/app/js/services/user.js",
+		"/home/thk01/git/workshoptrack.mobile/app/partials/settings.html",
+		"/home/thk01/git/menes.mobile/www/partials/reminder.html",
+		"/home/thk01/git/workshoptrack.mobile/app/partials/login.html",
+		"/home/thk01/git/workshoptrack.mobile/app/js/controllers/dashboard.js",
+		"/home/thk01/git/workshoptrack.mobile/app/partials/dashboard.html",
+		"/home/thk01/Documentos/awt/index.html",
+		"/home/thk01/git/awt/awt.site/index.html",
+		"/home/thk01/git/workshoptrack.mobile/app/partials/settings-equipment.html",
+		"/home/thk01/git/workshoptrack.mobile/app/partials/settings-server.html",
+		"/home/thk01/git/workshoptrack.mobile/app/partials/settings-idiom.html",
+		"/home/thk01/git/workshoptrack.mobile/app/partials/settings-server-html",
+		"/home/thk01/git/workshoptrack.mobile/app/data/bin.json",
+		"/home/thk01/git/workshoptrack.mobile/app/js/services/stock.js",
+		"/home/thk01/git/workshoptrack.mobile/app/partials/common/error-user-data.html",
+		"/home/thk01/git/workshoptrack.mobile/app/js/services.js",
+		"/home/thk01/git/workshoptrack.mobile/app/partials/common/error-user-data.hmtl",
+		"/home/thk01/git/workshoptrack.mobile/app/partials/common/error-user-access.html",
+		"/home/thk01/git/workshoptrack.mobile/app/partials/common/error-internal-server.html",
+		"/home/thk01/git/workshoptrack.mobile/app/js/services/organization.js",
+		"/home/thk01/git/workshoptrack.mobile/app/css/icons.fallback.css",
+		"/home/thk01/git/workshoptrack.mobile/app/partials/home.html",
+		"/home/thk01/git/workshoptrack.mobile/package.json",
+		"/home/thk01/git/workshoptrack.mobile/app/css/icons.data.png.css",
+		"/home/thk01/git/workshoptrack.mobile/app/partials/wizard/wizard.html",
+		"/home/thk01/temp/GRUNTICON/preview.html",
+		"/home/thk01/git/workshoptrack.mobile/app/js/controllers/picking.js",
+		"/home/thk01/git/workshoptrack.mobile/app/partials/common/user-menu.html",
+		"/home/thk01/git/workshoptrack.mobile/app/partials/picking.html",
+		"/home/thk01/git/workshoptrack.mobile/app/js/directives.js",
+		"/home/thk01/git/menes.mobile/www/js/controllers/services.js",
+		"/home/thk01/git/workshoptrack.mobile/app/partials/wizard/wizard-step00-welcome.html",
+		"/home/thk01/git/workshoptrack.mobile/app/partials/consolidation.html",
+		"/home/thk01/git/workshoptrack.mobile/bower_components/angular-wizard/dist/angular-wizard.css",
+		"/home/thk01/git/workshoptrack.mobile/bower_components/angular-wizard/dist/angular-wizard.min.css",
+		"/home/thk01/git/workshoptrack.mobile/app/partials/wizard/wizard-equipment.html",
+		"/home/thk01/git/workshoptrack.mobile/app/partials/wizard/wizard-layout.html",
+		"/home/thk01/git/workshoptrack.mobile/app/partials/wizard/wizard-backend.html",
+		"/home/thk01/git/workshoptrack.mobile/app/partials/wizard/wizard-organization.html",
+		"/home/thk01/git/workshoptrack.mobile/app/partials/common/error-delete-container.html",
+		"/home/thk01/git/workshoptrack.mobile/app/partials/bin.html",
+		"/home/thk01/Desarrollo/servidores/virgo-tomcat-server-3.6.2.KONEKTI.WORKSHOPTRACK/configuration/org.eclipse.virgo.kernel.userregion.properties",
+		"/home/thk01/git/workshoptrack.mobile/app/partials/common/warning-no-product.html",
+		"/home/thk01/git/workshoptrack.mobile/app/js/directives/common.js",
+		"/home/thk01/git/workshoptrack.mobile/app/js/directives/templates.js",
+		"/home/thk01/git/workshoptrack.mobile/app/partials/common/error-new-container.html",
+		"/home/thk01/git/workshoptrack.mobile/app/js/filters.js",
+		"/home/thk01/git/workshoptrack.mobile/app/js/controllers/consolidation.js",
+		"/home/thk01/Desarrollo/servidores/virgo-tomcat-server-3.6.2.KONEKTI.WORKSHOPTRACK.DEV/repository/usr/datasource-properties.properties",
+		"/home/thk01/Desarrollo/servidores/virgo-tomcat-server-3.6.2.KONEKTI.DEV.WORKSHOPTRACK/configuration/org.eclipse.virgo.kernel.userregion.properties",
+		"/home/thk01/.cache/.fr-c0HfeK/META-INF/MANIFEST.MF",
+		"/home/thk01/git/workshoptrack.mobile/app/partials/container.html",
+		"/home/thk01/git/menes.mobile/www/js/directives.js",
+		"/home/thk01/Desarrollo/recursos/swipeview-example/SwipeView.html",
+		"/home/thk01/Desarrollo/recursos/Edikal_mobile/gallery.html",
+		"/home/thk01/temp/SwipeView_files/swipeview.js",
+		"/home/thk01/temp/SwipeView.html",
+		"/var/www/menes.mobile/www/partials/common/main-menu.html",
+		"/home/thk01/git/workshoptrack.mobile/app/js/vendor/jquery.js",
+		"/home/thk01/.ssh/config",
+		"/var/www/workshoptrack.mobile/app/js/services.js",
+		"/home/thk01/Desarrollo/servidores/virgo-tomcat-server-3.0.2.KONEKTI.WORKSHOPTRACK/config/org.eclipse.virgo.kernel.userregion.properties",
+		"/home/thk01/Desarrollo/servidores/virgo-tomcat-server-3.6.2.KONEKTI.WORKSHOPTRACK/bin/konekti.startup.sh",
+		"/home/thk01/Desarrollo/servidores/virgo-tomcat-server-3.6.2.KONEKTI.WORKSHOPTRACK/bin/dmk.sh",
+		"/home/thk01/Desarrollo/servidores/virgo-tomcat-server-3.6.2.KONEKTI.WORKSHOPTRACK/serviceability/logs/log.log",
+		"/home/thk01/Desarrollo/servidores/virgo-tomcat-server-3.6.2.KONEKTI.WORKSHOPTRACK/bin/shutdown.sh",
+		"/home/thk01/Desarrollo/servidores/virgo-tomcat-server-3.6.2.KONEKTI.WORKSHOPTRACK/bin/konekti.shutdown.sh"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"add(isVa",
+			"add",
+			");\n",
+			"CONTAINER",
+			"container.add",
+			"delete-container",
+			"SELECT",
+			"SELECTION",
+			"ReceptionContainerAddStockCtrl",
+			"search-bin",
+			"ADD_STOCK",
+			"json",
+			"organization",
+			"access",
+			"apply-jqm-controlgroup",
+			"});\n",
+			"container",
+			"templateCache",
+			"loadTemplate",
+			"directive",
+			"BIN_VIEW_STATUS_FIELD",
+			"BIN",
+			"\">",
+			");\n",
+			"ESCA",
+			"CANCE",
+			"username",
+			"WizardCtrl",
+			"WARNING",
+			"addStockUrl",
+			"location",
+			"scope",
+			"RECEPTION_VIEW_FILTER_PLACEHOLDER",
+			"Escanear",
+			"widgetset",
+			"Ninguna",
+			"nav",
+			"2",
+			"1,2",
+			",",
+			"bundle",
+			"workbench",
+			"batik",
+			" :",
+			"translate",
+			"divider03",
+			"fire",
+			".container{}",
+			"  }])",
+			"translate",
+			"location",
+			"CONTAINER",
+			"container",
+			"result",
+			"$http",
+			"}\n",
+			"Pri",
+			"PICKING",
+			"exPEDITION",
+			"eQUIPMENT",
+			"printing",
+			"MENU_PRINT",
+			"containerId",
+			"isEmpty",
+			"CONTAINER_STOCK_VIEW_PRESENTATION_CATEGORY",
+			"CONTAINER_STOCK_VIEW_QUANTITY_FIELD",
+			"Container",
+			"panel",
+			"CreateContainerController",
+			"p",
+			"P",
+			"p",
+			"P",
+			"p",
+			"mainMenu",
+			"COM_WORKSHEET",
+			",",
+			"'",
+			"div",
+			"<",
+			"div",
+			"stocks",
+			"scan-product-package",
+			"mixed",
+			"select",
+			"stock_status",
+			"SetServices",
+			"removeService",
+			"Virtual",
+			"granted",
+			"Require all granted",
+			"listen",
+			"security",
+			"ch.qos.logback.classic",
+			"h.qos.logback.classic",
+			"ch.qos.logback.classic",
+			"h.qos.logback.classic",
+			"h.qos.logback.classi",
+			"h.qos.logback.classic",
+			"ch.qos.logback",
+			"jersey",
+			"simb",
+			"security",
+			"batik",
+			"com.thingtrack.konekti.message",
+			"message",
+			"Plus",
+			"mensual",
+			"prize",
+			"import",
+			"Contraseña",
+			"correo",
+			"Suscribase a nuestro b\nSuscribase a nuestro b\ncollapseFour",
+			"etc",
+			"jasper",
+			".mobiscroll().calendar",
+			"calendar",
+			"addTodo",
+			"</form>",
+			"<div id=\"scan-product-package\">\n      <label for=\"search-product\" class=\"ui-hidden-accessible\">Escanear ubicaci&oacute;n:</label>\n      <input name=\"search-product\" id=\"search-product\" value=\"\" type=\"search\" placeholder=\"Escanear producto...\"/>\n    </div>\n    <div id=\"warning-no-product\" data-role=\"popup\" data-overlay-theme=\"a\" data-theme=\"e\" class=\"ui-content\">\n      <p>Ning&uacute;n producto encontrado</p>\n<%",
+			"<div id=\"scan-product-package\">\n      <label for=\"search-product\" class=\"ui-hidden-accessible\">Escanear ubicaci&oacute;n:</label>\n      <input name=\"search-product\" id=\"search-product\" value=\"\" type=\"search\" placeholder=\"Escanear producto...\"/>\n    </div>\n    <div id=\"warning-no-product\" data-role=\"popup\" data-overlay-theme=\"a\" data-theme=\"e\" class=\"ui-content\">\n      <p>Ning&uacute;n producto encontrado</p>\n<% end ",
+			"18",
+			"com.colettrans.awt.domain.LOAD",
+			"com.colettrans.awtdomain.LOAD",
+			"domain.LOAD",
+			"awt.domain.LOAD ",
+			"LOAD",
+			"Bustrack"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/home/thk01/git/menes.mobile/menes.mobile.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 328.0,
+	"status_bar_visible": true
+}

@@ -1,6 +1,13 @@
 [
-    "index.md",
-    "que-es-konekti.html",
-    "por-que-konekti.html",
+    "index.html",
+    [
+    	"que-es-konekti.html",
+    	"tecnologia.html",
+    	"caracteristicas.html"
+    ],
+    [
+    	"por-que-konekti.html",
+    	"comparativa.html"
+    ],
     "casos-reales.html"
 ]

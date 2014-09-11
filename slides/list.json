@@ -1,13 +1,38 @@
 [
     "index.html",
     [
-    	"que-es-konekti.html",
-    	"tecnologia.html",
-    	"caracteristicas.html"
+        "breve-historia.html",
+        "simple-client.html",
+        "rich-client.html",
+        "rich-client-platforms.html",
+        "la-web.html",
+        "rias.html",
+        "eclipse.html",
+        {
+            "filename": "cocktail.html",
+            "attr": {
+                "data-background": "img/cocktail.jpg"
+            }
+        }
     ],
     [
-    	"por-que-konekti.html",
-    	"comparativa.html"
+        "que-es-konekti.html",
+        "tecnologia.html",
+        "caracteristicas.html",
+        "konekti-arquitectura.html",
+        "konekti-ejemplo.html"
     ],
-    "casos-reales.html"
+    [
+        "por-que-konekti.html",
+        "ventajas-osgi.html",
+        "ventajas-ria.html",
+        "ventajas-servicios.html",
+        "comparativa.html"
+    ],
+    [
+        "casos-reales.html",
+        "vertical-kfleet.html",
+        "vertical-kstock.html"
+    ],
+    "final.html"
 ]

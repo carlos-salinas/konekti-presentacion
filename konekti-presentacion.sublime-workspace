@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"pa",
+				"padding-bottom"
+			],
+			[
 				"min",
 				"min-width"
 			],
@@ -99,6 +103,86 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "slides/breve-historia.html",
+			"settings":
+			{
+				"buffer_size": 329,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "slides/eclipse.html",
+			"settings":
+			{
+				"buffer_size": 516,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "slides/cocktail.html",
+			"settings":
+			{
+				"buffer_size": 272,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "slides/rich-client-platforms.html",
+			"settings":
+			{
+				"buffer_size": 500,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 6042,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "slides/la-web.html",
+			"settings":
+			{
+				"buffer_size": 627,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "slides/rias.html",
+			"settings":
+			{
+				"buffer_size": 163,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "slides/list.json",
+			"settings":
+			{
+				"buffer_size": 623,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "slides/por-que-konekti.html",
+			"settings":
+			{
+				"buffer_size": 273,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "slides/comparativa.html",
+			"settings":
+			{
+				"buffer_size": 1005,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -132,6 +216,21 @@
 	},
 	"file_history":
 	[
+		"/home/thk01/git/konekti-presentacion/slides/caracteristicas.html",
+		"/home/thk01/git/konekti-presentacion/slides/list.json",
+		"/home/thk01/git/konekti-presentacion/slides/index.html",
+		"/home/thk01/git/konekti-presentacion/slides/comparativa.html",
+		"/home/thk01/git/konekti-presentacion/index.html",
+		"/home/thk01/git/konekti-presentacion/css/slides.css",
+		"/home/thk01/git/workshoptrack.mobile/app/partials/container-detail.html",
+		"/home/thk01/git/konekti-presentacion/slides/por-que-konekti.html",
+		"/home/thk01/git/konekti-presentacion/slides/que-es-konekti.html",
+		"/home/thk01/git/konekti-presentacion/slides/casos-reales.html",
+		"/home/thk01/git/konekti-presentacion/slides/tecnologia.html",
+		"/home/thk01/git/konekti-presentacion/slides/comparativa.htmlç",
+		"/home/thk01/git/konekti-presentacion/slides/que-es-konekti.md",
+		"/home/thk01/git/konekti-presentacion/slides/index.md",
+		"/home/thk01/git/konekti-presentacion/.gitignore",
 		"/home/thk01/git/workshoptrack.mobile/app/js/controllers/reception.js",
 		"/home/thk01/git/workshoptrack.mobile/app/js/directives/template.js",
 		"/home/thk01/git/workshoptrack.mobile/app/partials/container-add-stock.html",
@@ -139,13 +238,8 @@
 		"/home/thk01/git/workshoptrack.mobile/app/partials/container-new.html",
 		"/home/thk01/git/workshoptrack.mobile/app/js/services/reception.js",
 		"/home/thk01/git/workshoptrack.mobile/app/partials/reception-detail.html",
-		"/home/thk01/git/workshoptrack.mobile/app/partials/container-detail.html",
 		"/home/thk01/git/konekti-speech/slides/index.md",
 		"/home/thk01/git/konekti-speech/templates/_index.html",
-		"/home/thk01/git/konekti-presentacion/slides/por-que-konekti.html",
-		"/home/thk01/git/konekti-presentacion/slides/list.json",
-		"/home/thk01/git/konekti-presentacion/slides/que-es-konekti.html",
-		"/home/thk01/git/konekti-presentacion/slides/index.md",
 		"/home/thk01/git/workshoptrack.mobile/app/partials/common/warning-no-bounded-container.html",
 		"/home/thk01/git/workshoptrack.mobile/app/partials/inventory.html",
 		"/home/thk01/git/workshoptrack.mobile/app/js/services/container.js",
@@ -249,17 +343,7 @@
 		"/home/thk01/Desarrollo/recursos/swipeview-example/SwipeView.html",
 		"/home/thk01/Desarrollo/recursos/Edikal_mobile/gallery.html",
 		"/home/thk01/temp/SwipeView_files/swipeview.js",
-		"/home/thk01/temp/SwipeView.html",
-		"/var/www/menes.mobile/www/partials/common/main-menu.html",
-		"/home/thk01/git/workshoptrack.mobile/app/js/vendor/jquery.js",
-		"/home/thk01/.ssh/config",
-		"/var/www/workshoptrack.mobile/app/js/services.js",
-		"/home/thk01/Desarrollo/servidores/virgo-tomcat-server-3.0.2.KONEKTI.WORKSHOPTRACK/config/org.eclipse.virgo.kernel.userregion.properties",
-		"/home/thk01/Desarrollo/servidores/virgo-tomcat-server-3.6.2.KONEKTI.WORKSHOPTRACK/bin/konekti.startup.sh",
-		"/home/thk01/Desarrollo/servidores/virgo-tomcat-server-3.6.2.KONEKTI.WORKSHOPTRACK/bin/dmk.sh",
-		"/home/thk01/Desarrollo/servidores/virgo-tomcat-server-3.6.2.KONEKTI.WORKSHOPTRACK/serviceability/logs/log.log",
-		"/home/thk01/Desarrollo/servidores/virgo-tomcat-server-3.6.2.KONEKTI.WORKSHOPTRACK/bin/shutdown.sh",
-		"/home/thk01/Desarrollo/servidores/virgo-tomcat-server-3.6.2.KONEKTI.WORKSHOPTRACK/bin/konekti.shutdown.sh"
+		"/home/thk01/temp/SwipeView.html"
 	],
 	"find":
 	{
@@ -277,6 +361,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"la-web.html",
+			"html",
 			"add(isVa",
 			"add",
 			");\n",
@@ -402,9 +488,7 @@
 			"com.colettrans.awt.domain.LOAD",
 			"com.colettrans.awtdomain.LOAD",
 			"domain.LOAD",
-			"awt.domain.LOAD ",
-			"LOAD",
-			"Bustrack"
+			"awt.domain.LOAD "
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -422,8 +506,274 @@
 	"groups":
 	[
 		{
+			"selected": 2,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "slides/breve-historia.html",
+					"settings":
+					{
+						"buffer_size": 329,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								329,
+								329
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "slides/eclipse.html",
+					"settings":
+					{
+						"buffer_size": 516,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								512,
+								512
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "slides/cocktail.html",
+					"settings":
+					{
+						"buffer_size": 272,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								272,
+								272
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "slides/rich-client-platforms.html",
+					"settings":
+					{
+						"buffer_size": 500,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								475,
+								475
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 6042,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "slides/la-web.html",
+					"settings":
+					{
+						"buffer_size": 627,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								623,
+								623
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "slides/rias.html",
+					"settings":
+					{
+						"buffer_size": 163,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								159,
+								159
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "slides/list.json",
+					"settings":
+					{
+						"buffer_size": 623,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								289,
+								289
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "slides/por-que-konekti.html",
+					"settings":
+					{
+						"buffer_size": 273,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								27,
+								27
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "slides/comparativa.html",
+					"settings":
+					{
+						"buffer_size": 1005,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								243,
+								243
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -478,7 +828,7 @@
 		[
 			[
 				"",
-				"/home/thk01/git/menes.mobile/menes.mobile.sublime-project"
+				"/home/thk01/git/workshoptrack.mobile/worshoptrack.sublime-project"
 			]
 		],
 		"width": 380.0

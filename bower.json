@@ -2,6 +2,7 @@
   "name": "la-plataforma-konekti",
   "version": "0.0.1",
   "dependencies": {
-    "reveal.js": "~2.6.1"
+    "reveal.js": "~2.6.1",
+    "fontawesome": "~4.2.0"
   }
 }

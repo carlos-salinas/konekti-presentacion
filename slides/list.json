@@ -27,12 +27,16 @@
         "ventajas-osgi.html",
         "ventajas-ria.html",
         "ventajas-servicios.html",
+        "comparativa-force-com.html",
+        "comparativa-eclipse-rap.html",        
         "comparativa.html"
     ],
     [
         "casos-reales.html",
-        "vertical-kfleet.html",
-        "vertical-kstock.html"
+        "vertical-kfleet-pantallazo.html",
+        "vertical-kfleet-caracteristicas.html",
+        "vertical-kstock-pantallazo.html",
+        "vertical-kstock-caracteristicas.html"
     ],
     "final.html"
 ]

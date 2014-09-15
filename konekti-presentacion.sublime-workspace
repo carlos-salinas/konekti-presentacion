@@ -104,58 +104,10 @@
 	"buffers":
 	[
 		{
-			"file": "slides/breve-historia.html",
+			"file": "slides/vertical-kfleet-pantallazo.html",
 			"settings":
 			{
-				"buffer_size": 329,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "slides/eclipse.html",
-			"settings":
-			{
-				"buffer_size": 516,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "slides/cocktail.html",
-			"settings":
-			{
-				"buffer_size": 272,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "slides/rich-client-platforms.html",
-			"settings":
-			{
-				"buffer_size": 500,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "index.html",
-			"settings":
-			{
-				"buffer_size": 6042,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "slides/la-web.html",
-			"settings":
-			{
-				"buffer_size": 627,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "slides/rias.html",
-			"settings":
-			{
-				"buffer_size": 163,
+				"buffer_size": 153,
 				"line_ending": "Unix"
 			}
 		},
@@ -163,23 +115,39 @@
 			"file": "slides/list.json",
 			"settings":
 			{
-				"buffer_size": 623,
+				"buffer_size": 1043,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "slides/por-que-konekti.html",
+			"file": "slides/vertical-kfleet-caracteristicas.html",
 			"settings":
 			{
-				"buffer_size": 273,
+				"buffer_size": 383,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "slides/comparativa.html",
+			"file": "slides/vertical-kstock-pantallazo.html",
 			"settings":
 			{
-				"buffer_size": 1005,
+				"buffer_size": 127,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "slides/vertical-kstock-caracteristicas.html",
+			"settings":
+			{
+				"buffer_size": 308,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "slides/que-es-konekti.html",
+			"settings":
+			{
+				"buffer_size": 747,
 				"line_ending": "Unix"
 			}
 		}
@@ -216,15 +184,38 @@
 	},
 	"file_history":
 	[
-		"/home/thk01/git/konekti-presentacion/slides/caracteristicas.html",
+		"/home/thk01/git/konekti-presentacion/slides/comparativa-eclipse-rap.html",
 		"/home/thk01/git/konekti-presentacion/slides/list.json",
+		"/home/thk01/git/konekti-presentacion/slides/comparativa-force.com.html",
+		"/home/thk01/git/konekti-presentacion/slides/rich-client-platforms.html",
+		"/home/thk01/git/konekti-presentacion/slides/por-que-konekti.html",
+		"/home/thk01/git/konekti-presentacion/slides/caracteristicas.html",
+		"/home/thk01/git/konekti-presentacion/slides/la-web.html",
+		"/home/thk01/Documentos/KONEKTI_DVD_CONTENIDO/ejecutables/virgo-tomcat-server-3.6.2.KONEKTI.WORKSHOPTRACK/configuration/org.eclipse.virgo.kernel.userregion.properties",
+		"/home/thk01/git/konekti-presentacion/slides/konekti-ejemplo.html",
+		"/home/thk01/git/konekti-presentacion/slides/vertical-kfleet.html",
+		"/home/thk01/git/konekti-presentacion/slides/vertical-kstock.html",
+		"/home/thk01/Documentos/KONEKTI_DVD_CONTENIDO/ejecutables/virgo-tomcat-server-3.6.2.KONEKTI.WORKSHOPTRACK/configuration/org.eclipse.virgo.kernel.users.properties",
+		"/home/thk01/Documentos/KONEKTI_DVD_CONTENIDO/ejecutables/virgo-tomcat-server-3.6.2.KONEKTI.WORKSHOPTRACK/repository/usr/datasource-properties.properties",
+		"/home/thk01/git/konekti-presentacion/slides/que-es-konekti.html",
+		"/home/thk01/git/konekti-presentacion/slides/konekti-arquitectura.html",
+		"/home/thk01/git/konekti-presentacion/slides/eclipse.html",
+		"/home/thk01/git/konekti-presentacion/slides/ventajas-servicios.html",
 		"/home/thk01/git/konekti-presentacion/slides/index.html",
-		"/home/thk01/git/konekti-presentacion/slides/comparativa.html",
+		"/home/thk01/git/konekti-presentacion/slides/final.html",
+		"/home/thk01/git/konekti-presentacion/slides/breve-historia.html",
+		"/home/thk01/git/konekti-presentacion/slides/simple-client.html",
+		"/home/thk01/git/konekti-presentacion/slides/rich-client.html",
+		"/home/thk01/git/konekti-presentacion/slides/rias.html",
 		"/home/thk01/git/konekti-presentacion/index.html",
+		"/home/thk01/git/konekti-presentacion/templates/_index.html",
+		"/home/thk01/git/konekti-presentacion/slides/vertical-kfeet.html",
+		"/home/thk01/git/konekti-presentacion/slides/ventajas-ria.html",
+		"/home/thk01/git/konekti-presentacion/slides/ventajas-osgi.html",
+		"/home/thk01/git/konekti-presentacion/slides/comparativa.html",
+		"/home/thk01/git/konekti-presentacion/slides/cocktail.html",
 		"/home/thk01/git/konekti-presentacion/css/slides.css",
 		"/home/thk01/git/workshoptrack.mobile/app/partials/container-detail.html",
-		"/home/thk01/git/konekti-presentacion/slides/por-que-konekti.html",
-		"/home/thk01/git/konekti-presentacion/slides/que-es-konekti.html",
 		"/home/thk01/git/konekti-presentacion/slides/casos-reales.html",
 		"/home/thk01/git/konekti-presentacion/slides/tecnologia.html",
 		"/home/thk01/git/konekti-presentacion/slides/comparativa.htmlç",
@@ -320,30 +311,7 @@
 		"/home/thk01/git/menes.mobile/www/js/controllers/services.js",
 		"/home/thk01/git/workshoptrack.mobile/app/partials/wizard/wizard-step00-welcome.html",
 		"/home/thk01/git/workshoptrack.mobile/app/partials/consolidation.html",
-		"/home/thk01/git/workshoptrack.mobile/bower_components/angular-wizard/dist/angular-wizard.css",
-		"/home/thk01/git/workshoptrack.mobile/bower_components/angular-wizard/dist/angular-wizard.min.css",
-		"/home/thk01/git/workshoptrack.mobile/app/partials/wizard/wizard-equipment.html",
-		"/home/thk01/git/workshoptrack.mobile/app/partials/wizard/wizard-layout.html",
-		"/home/thk01/git/workshoptrack.mobile/app/partials/wizard/wizard-backend.html",
-		"/home/thk01/git/workshoptrack.mobile/app/partials/wizard/wizard-organization.html",
-		"/home/thk01/git/workshoptrack.mobile/app/partials/common/error-delete-container.html",
-		"/home/thk01/git/workshoptrack.mobile/app/partials/bin.html",
-		"/home/thk01/Desarrollo/servidores/virgo-tomcat-server-3.6.2.KONEKTI.WORKSHOPTRACK/configuration/org.eclipse.virgo.kernel.userregion.properties",
-		"/home/thk01/git/workshoptrack.mobile/app/partials/common/warning-no-product.html",
-		"/home/thk01/git/workshoptrack.mobile/app/js/directives/common.js",
-		"/home/thk01/git/workshoptrack.mobile/app/js/directives/templates.js",
-		"/home/thk01/git/workshoptrack.mobile/app/partials/common/error-new-container.html",
-		"/home/thk01/git/workshoptrack.mobile/app/js/filters.js",
-		"/home/thk01/git/workshoptrack.mobile/app/js/controllers/consolidation.js",
-		"/home/thk01/Desarrollo/servidores/virgo-tomcat-server-3.6.2.KONEKTI.WORKSHOPTRACK.DEV/repository/usr/datasource-properties.properties",
-		"/home/thk01/Desarrollo/servidores/virgo-tomcat-server-3.6.2.KONEKTI.DEV.WORKSHOPTRACK/configuration/org.eclipse.virgo.kernel.userregion.properties",
-		"/home/thk01/.cache/.fr-c0HfeK/META-INF/MANIFEST.MF",
-		"/home/thk01/git/workshoptrack.mobile/app/partials/container.html",
-		"/home/thk01/git/menes.mobile/www/js/directives.js",
-		"/home/thk01/Desarrollo/recursos/swipeview-example/SwipeView.html",
-		"/home/thk01/Desarrollo/recursos/Edikal_mobile/gallery.html",
-		"/home/thk01/temp/SwipeView_files/swipeview.js",
-		"/home/thk01/temp/SwipeView.html"
+		"/home/thk01/git/workshoptrack.mobile/bower_components/angular-wizard/dist/angular-wizard.css"
 	],
 	"find":
 	{
@@ -361,6 +329,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"Tutor",
 			"la-web.html",
 			"html",
 			"add(isVa",
@@ -487,8 +456,7 @@
 			"18",
 			"com.colettrans.awt.domain.LOAD",
 			"com.colettrans.awtdomain.LOAD",
-			"domain.LOAD",
-			"awt.domain.LOAD "
+			"domain.LOAD"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -506,23 +474,23 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 5,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "slides/breve-historia.html",
+					"file": "slides/vertical-kfleet-pantallazo.html",
 					"settings":
 					{
-						"buffer_size": 329,
+						"buffer_size": 153,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								329,
-								329
+								151,
+								151
 							]
 						],
 						"settings":
@@ -537,176 +505,18 @@
 				},
 				{
 					"buffer": 1,
-					"file": "slides/eclipse.html",
-					"settings":
-					{
-						"buffer_size": 516,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								512,
-								512
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "slides/cocktail.html",
-					"settings":
-					{
-						"buffer_size": 272,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								272,
-								272
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "slides/rich-client-platforms.html",
-					"settings":
-					{
-						"buffer_size": 500,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								475,
-								475
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "index.html",
-					"settings":
-					{
-						"buffer_size": 6042,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "slides/la-web.html",
-					"settings":
-					{
-						"buffer_size": 627,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								623,
-								623
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "slides/rias.html",
-					"settings":
-					{
-						"buffer_size": 163,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								159,
-								159
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 7,
 					"file": "slides/list.json",
 					"settings":
 					{
-						"buffer_size": 623,
+						"buffer_size": 1043,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								289,
-								289
+								1017,
+								1017
 							]
 						],
 						"settings":
@@ -722,19 +532,19 @@
 					"type": "text"
 				},
 				{
-					"buffer": 8,
-					"file": "slides/por-que-konekti.html",
+					"buffer": 2,
+					"file": "slides/vertical-kfleet-caracteristicas.html",
 					"settings":
 					{
-						"buffer_size": 273,
+						"buffer_size": 383,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								27,
-								27
+								32,
+								32
 							]
 						],
 						"settings":
@@ -748,25 +558,76 @@
 					"type": "text"
 				},
 				{
-					"buffer": 9,
-					"file": "slides/comparativa.html",
+					"buffer": 3,
+					"file": "slides/vertical-kstock-pantallazo.html",
 					"settings":
 					{
-						"buffer_size": 1005,
+						"buffer_size": 127,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								243,
-								243
+								121,
+								121
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"translate_tabs_to_spaces": false
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "slides/vertical-kstock-caracteristicas.html",
+					"settings":
+					{
+						"buffer_size": 308,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								125,
+								125
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "slides/que-es-konekti.html",
+					"settings":
+					{
+						"buffer_size": 747,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								747,
+								747
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -828,7 +689,7 @@
 		[
 			[
 				"",
-				"/home/thk01/git/workshoptrack.mobile/worshoptrack.sublime-project"
+				"/home/thk01/git/konekti-presentacion/konekti-presentacion.sublime-project"
 			]
 		],
 		"width": 380.0

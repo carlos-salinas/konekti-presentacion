@@ -1,5 +1,6 @@
 [
     "index.html",
+    "indice.html",
     [
         "breve-historia.html",
         "simple-client.html",
@@ -20,13 +21,11 @@
         "tecnologia.html",
         "caracteristicas.html",
         "konekti-arquitectura.html",
+        "konekti-funcionalidades.html",
         "konekti-ejemplo.html"
     ],
     [
         "por-que-konekti.html",
-        "ventajas-osgi.html",
-        "ventajas-ria.html",
-        "ventajas-servicios.html",
         "comparativa-force-com.html",
         "comparativa-eclipse-rap.html",        
         "comparativa.html"
